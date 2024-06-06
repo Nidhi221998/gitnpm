@@ -1,0 +1,61 @@
+.signUp {
+    background: #EFEEFF;
+    border: 1px solid #707070;
+    border-radius: 20px;
+   padding: 4em 0;
+}
+.signUp .fullWidth{
+    display: flex;
+    padding: 2em 6em;
+}
+/* .form {
+    display: flex;
+    flex-flow: column;
+    padding: 75px 90px;
+} */
+.signUp  h3{
+font: 600 44px/44px "Roboto", sans-serif;
+letter-spacing: 0px;
+color: #3A3A3A;
+padding-bottom: 0.6em;
+}
+.signUp h3 span{
+    background-color: #4F44FF;
+    color: #EFEEFF;
+}
+.signUp p{
+    font: 500 24px/34px "Roboto", sans-serif;
+    letter-spacing: 0px;    
+    color: #3A3A3A;
+    display: flex;
+    justify-content: center;
+}
+.signUp .lastPara{
+    font-size: 16px;
+}
+.signUp .lastPara span{
+    padding-left: .4em;
+}
+.signUp fieldset{
+    border-radius: 1em;
+    border: 2px solid #AAAAAA;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+}
+.signUp .styleButton{
+    font: 500 18px/24px "Roboto", sans-serif;
+    background-color: #38328C;
+    color: #fff;
+    border-radius: 20px;
+    height: 47px;
+    text-transform: capitalize;
+}
+.signUp .styleButton a {
+    color: #fff;
+  }
+
+  .error {
+    color: red;
+    margin-bottom: 0;
+    text-align: left;
+  }

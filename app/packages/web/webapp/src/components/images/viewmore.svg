@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="318" height="61" viewBox="0 0 318 61">
+  <g id="Group_16248" data-name="Group 16248" transform="translate(-101 -737)">
+    <rect id="Rectangle_6811" data-name="Rectangle 6811" width="318" height="61" rx="10" transform="translate(101 737)" fill="#6c63ff"/>
+    <text id="Request_a_Demo" data-name="Request a Demo" transform="translate(124 776)" fill="#fff" font-size="22" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Request a Demo</tspan></text>
+    <g id="Group_16247" data-name="Group 16247" transform="translate(18 -182.394)">
+      <line id="Line_22" data-name="Line 22" x2="44" transform="translate(306.5 950.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <path id="Path_3768" data-name="Path 3768" d="M11.143,1.429a1,1,0,0,1,1.715,0L23.091,18.486c.4.667-10.255-11.259-11.032-11.259L1.409,18.486c-.777,0-.9.667-.5,0Z" transform="translate(369 938) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

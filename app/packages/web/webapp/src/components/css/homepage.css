@@ -1,0 +1,56 @@
+.hello {
+    text-align: left;
+    color: #fff;
+}
+.hello h1{
+    font: 600 68px/89px 'Roboto';
+}
+.hello h1 span{
+    background-color: #fff;
+    color: var(--color-web);
+    padding-left: 10px;
+}
+
+.hello p{
+    font: 300 18px/30px 'Roboto';    
+    padding: 70px 0;
+}
+.hello .farrow{
+    border-radius: 10px;
+    background: var(--color-web);
+    color: #fff;
+    padding: 16px 32px 16px 23px;
+    font: 500 22px/29px Roboto;
+    text-transform: none;
+}
+.hello .farrow img{
+    margin-left: 1rem;
+}
+/* button{
+    width: 318px;
+    height: 61px;    
+    opacity: 1;
+} */
+.mainHome{
+    position: relative;
+}
+.home_image{
+    width: 100%;
+    position: relative;
+
+}
+.home_image img{    
+    margin-top: -50px;
+}
+.scrollDown {
+    margin-top: -10px;
+}
+.bgbottom {
+    position: absolute;
+    bottom: 0;
+    left: -84px;
+    width: 300px;
+}
+.bgbottom img {
+    width: 100%;
+}

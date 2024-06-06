@@ -1,0 +1,53 @@
+.mainmenu {
+    padding: 20px 0 50px 0;
+    display: contents;
+}
+.menu_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.hellddo {
+    display: flex;
+    align-items: center;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    margin-right: 15px;
+}
+.logo_title{
+    font: 500 36px/48px 'Roboto', sans-serif ;
+    color: #fff;
+}
+.menu_name {
+    display: flex;
+    gap: 50px;
+    justify-content: flex-end;
+    margin-right: 100px;
+}
+.menu_item{
+    font: 500 18px/24px 'Roboto', sans-serif ;
+    list-style: none;
+    color: #FFFFFF;
+}
+.menu_item a{
+    text-decoration: none;
+    transition: all .3s ease;   
+    color: #fff;    
+}    
+
+
+.login{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 3px solid #38328C;
+    border-radius: 10px;
+    opacity: 1;
+    width: 177px;
+    height: 52px;
+    color: #38328C;
+    font: 500 18px/52px 'Roboto', sans-serif ;
+}
